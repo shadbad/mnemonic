@@ -27,7 +27,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "import/prefer-default-export": 0,
+        "import/prefer-default-export": "off",
         "no-use-before-define": "off",
         "comma-dangle": [
             "error",
